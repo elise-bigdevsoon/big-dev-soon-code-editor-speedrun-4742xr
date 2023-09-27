@@ -8,7 +8,7 @@ Application that provides HTML/CSS/JS tabs with live code preview.
 
 Create code that matters! 🤩
 
-Level up your coding skills by building real-world projects with professional designs.
+Level up your coding skills by building real-world projects with professional desikgns.
 
 ## Project brief
 j
